@@ -15,11 +15,11 @@ Sample_Login_Thinkeo/
 
 
 ## 🚀 Features
-- Valid & invalid login test cases
-- UI validation (e.g. field errors, button states)
-- Toast error message verification
-- Email field format validation
-
+- UI - should display email and password fields and login button
+- Negative - login with empty fields
+- Negative - invalid email format
+- Negative - incorrect credentials
+- Positive - successful login and redirect to dashboard. i.e. Publications page
 ---
 
 ## 🛠️ Setup Instructions
