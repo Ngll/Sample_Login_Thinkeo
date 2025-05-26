@@ -24,12 +24,12 @@ Sample_Login_Thinkeo/
 
 ## 🛠️ Setup Instructions
 
-1. **Clone the repository**
+**Clone the repository**
 ```bash
 git clone https://github.com/Ngll/Sample_Login_Thinkeo.git
 cd Sample_Login_Thinkeo
 
-Install dependencies
+**Install dependencies**
 npx playwright install, press enter
 npm init playwright@latest, press enter
 Select option Javascript
